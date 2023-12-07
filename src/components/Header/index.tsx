@@ -2,7 +2,8 @@ const Header = () => {
   return (
     <>
       <div>
-        <span>Header</span>
+        {/* Mobile */}
+        {/* Hamburger Menu */}
       </div>
     </>
   );
